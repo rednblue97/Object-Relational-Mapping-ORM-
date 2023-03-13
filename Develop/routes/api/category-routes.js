@@ -9,10 +9,9 @@ router.get('/', async (req, res) => {
  
   try { 
     let categoryData = await Category.findAll({
-    include: {
-      model: Product,
-      attributes: ['id','product_name','price','stock']
-    }
+    include: [{
+      model: Product
+    }],
   });
   res.status(200).json(categoryData)
 } catch (err) {
@@ -29,10 +28,9 @@ router.get('/:id', async (req, res) => {
       where: {
         id: req.params.id
       },
-      include: {
-        model: Product,
-        attributes: ['id','product_name','price','stock']
-      }
+      include: [{
+        model: Product
+      }],
     });
     res.status(200).json(categoryData)
 } catch (err) {
