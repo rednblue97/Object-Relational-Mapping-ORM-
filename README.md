@@ -28,6 +28,8 @@ dotenv
 
 ## Usage
 This application is used to keep track of an ecomerce backend platform for ease of use and orginzation.
+![image](https://user-images.githubusercontent.com/114364879/225115322-cddbac35-a58a-4204-b1dc-03826ed7e980.png)
+
 
 ## License
 None
