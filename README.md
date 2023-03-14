@@ -20,6 +20,12 @@ This is an application that will help a user keep track of products including th
 ## Instalation
 The user will downlowad the the file, once in the code editer, the user will have to input their own mysql credentials to run the schema nesscary for the application.
 
+Technologies being used in this application:
+MySql2
+Sequelize
+Express.js API
+dotenv
+
 ## Usage
 This application is used to keep track of an ecomerce backend platform for ease of use and orginzation.
 
