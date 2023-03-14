@@ -36,7 +36,8 @@ None
 
 
 ## Tests
-The user can test this application by running the source DB/schema.sql in MYSQL. Running the seed. Lastly running npm start.
+The user can test this application by running the source DB/schema.sql in MYSQL. Running the seed. Lastly running npm start.Below is a video showing how to run this application.
+https://drive.google.com/file/d/1mBTSgqCZX2I-Wnws4QXKVa7PbWtMp9O7/view
 
 ## Questions
 
