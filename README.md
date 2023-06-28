@@ -46,6 +46,7 @@ The user can test this application by running the source DB/schema.sql in MYSQL.
 
 
 ## GitHub 
-https://github.com/CaptureB
+https://github.com/rednblue97
 
 ## Email
+probablydavidgarcia97@gmail.com
